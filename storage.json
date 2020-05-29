@@ -1490,9 +1490,9 @@
             "folder": "file:///home/behzad/Desktop/Mydocker/visits/frontend",
             "backupPath": "/home/behzad/Desktop/Mydocker/visits/frontend/Backups/842b3881541d5aa3179f5773793b2ad6",
             "uiState": {
-                "mode": 0,
-                "x": 400,
-                "y": 400,
+                "mode": 1,
+                "x": 631,
+                "y": 230,
                 "width": 658,
                 "height": 538
             }
