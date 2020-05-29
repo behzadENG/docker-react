@@ -1,0 +1,3 @@
+[2020-05-26 17:33:56.892] [sharedprocess] [info] main {"machineId":"2f0cf8797a8e7b9bfc154f989b405ac32bdc59f110a93789f4102ba1e243f1d2","windowId":2}
+[2020-05-26 17:33:56.954] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/behzad/Desktop/Mydocker/visits/frontend/User/snippets'
+[2020-05-26 17:34:36.910] [sharedprocess] [info] Starting to clean up unused language packs.

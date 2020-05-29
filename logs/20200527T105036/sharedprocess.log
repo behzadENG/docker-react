@@ -1,0 +1,8 @@
+[2020-05-27 10:50:42.348] [sharedprocess] [info] main {"machineId":"2f0cf8797a8e7b9bfc154f989b405ac32bdc59f110a93789f4102ba1e243f1d2","windowId":2}
+[2020-05-27 10:50:47.549] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2020-05-27 10:50:48.995] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /tmp/c09d4b0a-c244-486e-9ecb-1710f8052d2f
+[2020-05-27 10:50:49.642] [sharedprocess] [info] Extracted extension to /home/behzad/.vscode/extensions/.ms-azuretools.vscode-docker-1.2.1: ms-azuretools.vscode-docker
+[2020-05-27 10:50:49.642] [sharedprocess] [info] Renamed to /home/behzad/.vscode/extensions/ms-azuretools.vscode-docker-1.2.1
+[2020-05-27 10:50:49.644] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2020-05-27 10:50:49.789] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2020-05-27 10:51:22.363] [sharedprocess] [info] Starting to clean up unused language packs.
