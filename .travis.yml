@@ -4,7 +4,7 @@ services:
 
 
 before_install:
-    - docker bild -t behzadDocker/docker-react -f Dockerfile.dev .
+    - docker build -t behzadDocker/docker-react -f Dockerfile.dev .
 
 script:
     - docker run behzadDocker/docker-react npm run test -- --coverage
