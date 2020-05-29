@@ -44,7 +44,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1490,8 +1491,8 @@
             "backupPath": "/home/behzad/Desktop/Mydocker/visits/frontend/Backups/842b3881541d5aa3179f5773793b2ad6",
             "uiState": {
                 "mode": 1,
-                "x": 668,
-                "y": 147,
+                "x": 683,
+                "y": 201,
                 "width": 658,
                 "height": 538
             }

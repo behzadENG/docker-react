@@ -1,0 +1,8 @@
+[2020-05-29 11:41:58.254] [sharedprocess] [info] main {"machineId":"2f0cf8797a8e7b9bfc154f989b405ac32bdc59f110a93789f4102ba1e243f1d2","windowId":2}
+[2020-05-29 11:42:02.253] [sharedprocess] [info] Installing extension: tabajara-krausburg.jacamo4code
+[2020-05-29 11:42:03.986] [sharedprocess] [info] Downloaded extension: tabajara-krausburg.jacamo4code /tmp/9b62f79a-4ed7-4c58-8faf-0f39ca4132a7
+[2020-05-29 11:42:04.028] [sharedprocess] [info] Extracted extension to /home/behzad/.vscode/extensions/.tabajara-krausburg.jacamo4code-1.1.0: tabajara-krausburg.jacamo4code
+[2020-05-29 11:42:04.028] [sharedprocess] [info] Renamed to /home/behzad/.vscode/extensions/tabajara-krausburg.jacamo4code-1.1.0
+[2020-05-29 11:42:04.029] [sharedprocess] [info] Installation completed. tabajara-krausburg.jacamo4code
+[2020-05-29 11:42:04.097] [sharedprocess] [info] Extensions installed successfully: tabajara-krausburg.jacamo4code
+[2020-05-29 11:42:38.266] [sharedprocess] [info] Starting to clean up unused language packs.
