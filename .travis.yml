@@ -9,3 +9,16 @@ before_install:
 
 script:
   - docker run -e CI=true behzocker/docker-react npm run test
+
+deploy:
+  provide: elasticbeanstalk
+  regin: "eu-west-3"
+  app: "MyDop"
+  env: "MyDop-env"
+  bucket_name: "elasticbeanstalk-eu-west-3-153293950615"
+  bucket_path: "MyDop"
+  on:
+    branch: master
+  access_key_id: $aws_access_key
+  secret_access_key:
+    secure: $aws_secret_key
