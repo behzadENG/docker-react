@@ -11,7 +11,7 @@ script:
   - docker run -e CI=true behzocker/docker-react npm run test
 
 deploy:
-  provide: elasticbeanstalk
+  provider: elasticbeanstalk
   regin: "eu-west-3"
   app: "MyDop"
   env: "MyDop-env"
