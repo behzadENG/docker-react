@@ -5,10 +5,10 @@ services:
 
 
 before_install:
-  - docker build -t behzaocker/docker-react -f Dockerfile.dev .
+  - docker build -t beh/docker-react -f Dockerfile.dev .
 
 script:
-  - docker run -e CI=true behzocker/docker-react npm run test
+  - docker run -e CI=true beh/docker-react npm run test
 
 deploy:
   provider: elasticbeanstalk

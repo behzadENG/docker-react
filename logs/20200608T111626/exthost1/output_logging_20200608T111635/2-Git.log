@@ -189,3 +189,160 @@ fatal: no upstream configured for branch 'newbranch'
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/behzad/Desktop/Mydocker/visits/frontend/src/App.js
+> git symbolic-ref --short HEAD
+> git cat-file -s 64699f0f5ca92a1df40fce6c0d1edb4e0e76e546
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+> git show :src/App.js
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.newbranch.github-pr-owner-number
+> git config --local branch.newbranch.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/behzad/Desktop/Mydocker/visits/frontend/src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Dockerfile.dev
+> git ls-files --stage -- /home/behzad/Desktop/Mydocker/visits/frontend/Dockerfile.dev
+> git cat-file -s 67cfb25eb107b3234f0861b045ddf9e810794ae3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Dockerfile
+> git ls-files --stage -- /home/behzad/Desktop/Mydocker/visits/frontend/Dockerfile
+> git cat-file -s d60635e6492a8945b7b88c4ece0142b9c83ff63d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Dockerfile.dev
+> git ls-files --stage -- /home/behzad/Desktop/Mydocker/visits/frontend/Dockerfile.dev
+> git cat-file -s 67cfb25eb107b3234f0861b045ddf9e810794ae3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+> git show :.travis.yml
+> git ls-files --stage -- /home/behzad/Desktop/Mydocker/visits/frontend/.travis.yml
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git cat-file -s e382d2ed67ddb5015c33f1846acee3c97af6ee3f
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/behzad/Desktop/Mydocker/visits/frontend/.travis.yml
