@@ -60,7 +60,7 @@
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Mydocker/visits/frontend"
+                                    "label": "/home/behzad/Desktop/Mydocker/visits/frontend"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -73,7 +73,7 @@
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Mydocker/visits/docker-compose.yml"
+                                    "label": "/home/behzad/Desktop/Mydocker/visits/docker-compose.yml"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -83,7 +83,7 @@
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Mydocker/visits/index.js"
+                                    "label": "/home/behzad/Desktop/Mydocker/visits/index.js"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -93,7 +93,7 @@
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/Mydocker/visits/frontend/package.json"
+                                    "label": "/home/behzad/Desktop/Mydocker/visits/frontend/package.json"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -408,7 +408,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar"
+                                    "label": "Show &&Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -611,8 +612,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1273,8 +1273,9 @@
                 "userSettingsLabel": "ctrl+shift+f"
             },
             "workbench.view.scm": {
-                "label": "Ctrl+Shift+G",
-                "userSettingsLabel": "ctrl+shift+g"
+                "label": "Ctrl+Shift+G G",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+shift+g g"
             },
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
@@ -1491,9 +1492,9 @@
             "backupPath": "/home/behzad/Desktop/Mydocker/visits/frontend/Backups/842b3881541d5aa3179f5773793b2ad6",
             "uiState": {
                 "mode": 1,
-                "x": 198,
-                "y": 174,
-                "width": 974,
+                "x": 730,
+                "y": 106,
+                "width": 734,
                 "height": 525
             }
         },

@@ -1,0 +1,191 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/behzad/Desktop/Mydocker/visits/frontend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse frature
+> git rev-parse --symbolic-full-name frature@{u}
+fatal: no upstream configured for branch 'frature'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --local branch.frature.github-pr-owner-number
+> git config --get commit.template
+> git config --local branch.frature.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :Dockerfile.dev
+> git ls-files --stage -- /home/behzad/Desktop/Mydocker/visits/frontend/Dockerfile.dev
+> git cat-file -s 67cfb25eb107b3234f0861b045ddf9e810794ae3
+> git show :Dockerfile
+> git ls-files --stage -- /home/behzad/Desktop/Mydocker/visits/frontend/Dockerfile
+> git cat-file -s b536d827bfcfe69f6c77adf3eaf98d9a70c099b1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse frature
+> git rev-parse --symbolic-full-name frature@{u}
+fatal: no upstream configured for branch 'frature'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse frature
+> git rev-parse --symbolic-full-name frature@{u}
+fatal: no upstream configured for branch 'frature'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse frature
+> git rev-parse --symbolic-full-name frature@{u}
+fatal: no upstream configured for branch 'frature'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse frature
+> git rev-parse --symbolic-full-name frature@{u}
+fatal: no upstream configured for branch 'frature'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse frature
+> git rev-parse --symbolic-full-name frature@{u}
+fatal: no upstream configured for branch 'frature'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse frature
+> git rev-parse --symbolic-full-name frature@{u}
+fatal: no upstream configured for branch 'frature'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse frature
+> git rev-parse --symbolic-full-name frature@{u}
+fatal: no upstream configured for branch 'frature'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/behzad/Desktop/Mydocker/visits/frontend/Dockerfile
+> git cat-file -s b536d827bfcfe69f6c77adf3eaf98d9a70c099b1
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git show :Dockerfile
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.newbranch.github-pr-owner-number
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/behzad/Desktop/Mydocker/visits/frontend/Dockerfile
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/index.js
+> git ls-files --stage -- /home/behzad/Desktop/Mydocker/visits/frontend/src/index.js
+> git cat-file -s 54c5ef1a427ab033ff649410d3f956c737a09d3a
+> git status -z -u
+> git show :src/App.test.js
+> git ls-files --stage -- /home/behzad/Desktop/Mydocker/visits/frontend/src/App.test.js
+> git cat-file -s 0d0fc6eb204e0ea0c3f533ba45702b95a5a84561
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/behzad/Desktop/Mydocker/visits/frontend/src/App.js
+> git cat-file -s 46489e3181ac222d37866c08b91300f0a23d829f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Dockerfile
+> git ls-files --stage -- /home/behzad/Desktop/Mydocker/visits/frontend/Dockerfile
+> git cat-file -s b536d827bfcfe69f6c77adf3eaf98d9a70c099b1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/behzad/Desktop/Mydocker/visits/frontend/src/App.js
+> git cat-file -s 46489e3181ac222d37866c08b91300f0a23d829f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse newbranch
+> git rev-parse --symbolic-full-name newbranch@{u}
+fatal: no upstream configured for branch 'newbranch'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
